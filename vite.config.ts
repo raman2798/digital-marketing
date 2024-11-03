@@ -13,9 +13,9 @@ const __dirname = dirname(__filename);
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), '');
 
-  const isCustomDomain = _.isEqual(_.get(env, 'VITE_CUSTOM_DEPLOYMENT', false), true);
+  const isCustomDomain = _.isEqual(_.get(env, 'VITE_CUSTOM_DEPLOYMENT'), 'true');
 
-  const isGenerateSourceMap = _.isEqual(_.get(env, 'VITE_GENERATE_SOURCEMAP', false), true);
+  const isGenerateSourceMap = _.isEqual(_.get(env, 'VITE_GENERATE_SOURCEMAP'), 'true');
 
   return {
     plugins: [react()],
