@@ -19,7 +19,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
-    base: isCustomDomain ? '/digital-marketing/' : '/',
+    base: isCustomDomain ? '/DigiHeight/' : '/',
     build: {
       sourcemap: isGenerateSourceMap,
     },

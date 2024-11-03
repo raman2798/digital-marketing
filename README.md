@@ -1,6 +1,6 @@
-# Digital Marketing
+# DigiHeight
 
-This is the repository for the Digital Marketing.
+This is the repository for the DigiHeight.
 
 ## Getting Started
 
@@ -9,9 +9,9 @@ This is the repository for the Digital Marketing.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/raman2798/digital-marketing.git
+git clone https://github.com/raman2798/DigiHeight.git
 
-cd digital-marketing
+cd DigiHeight
 ```
 
 2. Install node and npm

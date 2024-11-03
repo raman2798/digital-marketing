@@ -1,7 +1,7 @@
 {
-  "name": "digital-marketing",
+  "name": "digi-height",
   "version": "1.0.0",
-  "description": "Digital Marketing",
+  "description": "DigiHeight",
   "private": true,
   "type": "module",
   "engines": {
@@ -22,13 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raman2798/digital-marketing.git"
+    "url": "git+https://github.com/raman2798/DigiHeight.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/raman2798/digital-marketing/issues"
+    "url": "https://github.com/raman2798/DigiHeight/issues"
   },
   "dependencies": {
     "lodash": "^4.17.21",
